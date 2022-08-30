@@ -350,6 +350,7 @@ rpcallowip=127.0.0.1
 listen=1
 server=1
 daemon=1
+disablewallet=1
 #----
 masternode=1
 masternodeblsprivkey=$genkey3
